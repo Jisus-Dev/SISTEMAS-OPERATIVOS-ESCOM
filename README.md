@@ -109,6 +109,6 @@ Nota: se recomienda agregar información en las tareas 1 y 2, ya que la ponderac
 ## ⭐ AGRADECIMIENTO
 Puede agradecer el contenido presentado en este repositorio siguiendo mi perfil y/o marcando este repositorio con una estrella.
 
-Cualquier duda o aclaración puede contactarme usando los medios de comunicación de mi perfil [Jisus_Dev](https://github.com/JisusArroyoDev)
+Cualquier duda o aclaración puede contactarme usando los medios de comunicación de mi perfil [Jisus_Dev](https://github.com/Jisus-Dev)
 
 </div>
